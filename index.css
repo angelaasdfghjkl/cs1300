@@ -1,6 +1,6 @@
 /* Put your style information here! */
 body {
-  background: rgba(174, 168, 211, 0.3) /*  background with 30% opacity */
+  background: rgba(174, 168, 211, 0.4) /*  background with 30% opacity */
 }
 
 .responsive {
@@ -17,9 +17,11 @@ h2 {
   text-align: center;
 }
 
-li {
-  margin: 35px 70px 50px;
+
+ul {
+    margin: 35px 70px 50px;
     text-align: center;
+    list-style-position: inside;
 }
 
 img {
