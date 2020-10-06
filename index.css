@@ -2,16 +2,12 @@
 body {
   background: rgba(174, 168, 211, 0.5) /*  background with 50% opacity */
 }
-
+/*
 .responsive {
   max-width: 150%;
   height: 150%;
 }
-
-storyboard {
-  max-width: 10%;
-  height: 10%;
-}
+*/
 
 p {
   margin: 35px 70px 50px;
