@@ -4,7 +4,7 @@ body {
 }
 
 .responsive {
-  max-width: 80%;
+  max-width: 150%;
   height: 150%;
 }
 
@@ -30,13 +30,12 @@ ul {
     text-align: center;
     list-style-position: inside;
 }
-//
+
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
-//
 
 }
