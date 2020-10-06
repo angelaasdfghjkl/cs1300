@@ -4,7 +4,7 @@ body {
 }
 
 .responsive {
-  max-width: 100%;
+  max-width: 150%;
   height: auto;
 }
 
@@ -19,6 +19,7 @@ h2 {
 
 li {
   margin: 35px 70px 50px;
+    text-align: center;
 }
 
 img {
