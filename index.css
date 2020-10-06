@@ -1,14 +1,4 @@
 /* Put your style information here! */
-
-/* @font-face {
-  font-family: 'Roboto';
-  src: url('Roboto-Light-webfont.woff') format('woff');
-}
-
 body {
-  font-family: 'Roboto', sans-serif;
-  font-size: 18px;
-  line-height: 1.8em;
-  color: #5D6063;
+  background: rgba(0, 128, 0, 0.3) /*  background with 30% opacity */
 }
-*/
