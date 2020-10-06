@@ -4,12 +4,13 @@ body {
 }
 
 .responsive {
-  max-width: 200%;
-  height: auto;
+  max-width: 150%;
+  height: 150%;
 }
 
 p {
   margin: 35px 70px 50px;
+  text-align: center;
 }
 
 h2 {
