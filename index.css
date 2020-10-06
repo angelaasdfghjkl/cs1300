@@ -39,8 +39,8 @@ img {
 }
 
 img.resize {
-  max-width: 80%;
-  height: 150%;
+  max-width: 60%;
+  height: 60%;
 }
 
 }
