@@ -8,6 +8,11 @@ body {
   height: 150%;
 }
 
+storyboard {
+  max-width: 10%;
+  height: 10%;
+}
+
 p {
   margin: 35px 70px 50px;
   text-align: center;
