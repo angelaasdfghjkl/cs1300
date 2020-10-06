@@ -2,3 +2,8 @@
 body {
   background: rgba(220, 198, 224, 1) /*  background with 30% opacity */
 }
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
